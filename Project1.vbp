@@ -1,0 +1,13 @@
+Form=frmMain.frm
+Module=Module1; bf.bas
+ProjWinSize=34,674,307,272
+ProjWinShow=2
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
